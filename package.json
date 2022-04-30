@@ -1,6 +1,6 @@
 {
   "name": "js-to-root-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate root css variables from JS object or JSON",
   "main": "index.js",
   "scripts": {
