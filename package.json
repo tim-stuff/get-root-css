@@ -1,0 +1,21 @@
+{
+  "name": "js-to-root-css",
+  "version": "1.0.0",
+  "description": "Generate root css variables from JS object or JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"running as expected\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-stuff/js-to-root-css.git"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "css-variables",
+    "front-end"
+  ],
+  "author": "Timothy Daigle (tim-stuff)",
+  "license": "MIT"
+}
