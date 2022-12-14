@@ -1,6 +1,6 @@
 {
   "name": "js-to-root-css",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Generate root css variables from JS object or JSON",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tim-stuff/js-to-root-css.git"
+    "url": "git+https://github.com/tim-stuff/get-root-css.git"
   },
   "keywords": [
     "js",
